@@ -1,4 +1,4 @@
-# SnipeIT Python API
+# Snipe-IT Python API
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 [![PyPI version](https://badge.fury.io/py/snipeit.svg)](https://badge.fury.io/py/snipeit)
@@ -6,8 +6,7 @@
 ![Lines of code](https://img.shields.io/tokei/lines/github/SchoolOfTheOsage/snipeit?style=flat)
 ![GitHub](https://img.shields.io/github/license/SchoolOfTheOsage/snipeit?style=flat)
 
-Use this package to interface with the SnipeIT
-(<https://snipeitapp.com/>) API directly from Python.
+Use this package to interface with the [Snipe-IT](<https://snipeitapp.com/>) API directly from Python.
 
 ## Installation
 
