@@ -142,10 +142,7 @@ Run the command `pip install snipeit`
 4.  Push to the branch: `git push origin my-new-feature`
 5.  Submit a pull request :D
 
-## Credits
-
-Cox Automotive Inc. \* <https://www.coxautoinc.com/> \* Author: Jared
-Bloomer
+## [Authors](AUTHORS.md)
 
 ## License
 
