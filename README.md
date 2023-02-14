@@ -1,5 +1,6 @@
 # SnipeIT Python API
 
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 [![PyPI version](https://badge.fury.io/py/snipeit.svg)](https://badge.fury.io/py/snipeit)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/snipeit?style=flat)
 ![Lines of code](https://img.shields.io/tokei/lines/github/SchoolOfTheOsage/snipeit?style=flat)
@@ -148,9 +149,3 @@ Run the command `pip install snipeit`
 5.  Submit a pull request :D
 
 ## [Authors](AUTHORS.md)
-
-## License
-
-This Project is currently released under the MIT license. For the latest
-copy of the MIT license please refer to
-<https://opensource.org/licenses/MIT>
