@@ -148,3 +148,9 @@ Run the command `pip install snipeit`
 5.  Submit a pull request :D
 
 ## [Authors](AUTHORS.md)
+
+## License
+
+This Project is currently released under the MIT license. For the latest
+copy of the MIT license please refer to
+<https://opensource.org/licenses/MIT>
